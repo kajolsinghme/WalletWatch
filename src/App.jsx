@@ -54,7 +54,7 @@ export default function App() {
           <div className="flex items-center gap-3">
             <img src="/logo.png" className="w-8 h-8 rounded-md" />
             <div>
-              <h1 className="font-bold">WalletWatch</h1>
+              <h1 className="font-bold">WalletWatch Kajol</h1>
               <p className="text-xs text-slate-400">Spend smarter every day</p>
             </div>
           </div>
