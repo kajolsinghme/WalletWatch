@@ -1,24 +1,25 @@
 
 ---
 
-# Vite CI/CD Project
+# WalletWatch
 
-A simple Vite frontend project with **CI (GitHub Actions)** and **CD (Vercel auto deployment)**.
+A simple and clean **expense tracker web app** built using **React + Vite**.
+It includes a full **CI/CD pipeline** using GitHub Actions (CI) and Vercel auto deployment (CD).
 
 ---
 
 ## Live Demo
 
-https://wallet-watch-three.vercel.app/
+ [https://wallet-watch-three.vercel.app/](https://wallet-watch-three.vercel.app/)
 
 ---
 
 ## Tech Stack
 
-* ⚡ Vite
-* ⚛️ React
-* 🤖 GitHub Actions (CI)
-* 🌐 Vercel (CD)
+* Vite
+* React
+* GitHub Actions (CI)
+* Vercel (CD)
 
 ---
 
@@ -99,7 +100,10 @@ Deployed using Vercel
 ---
 
 ## Features
-
+* ✔ Add income and expenses
+* ✔ Delete transactions
+* ✔ Live balance calculation
+* ✔ Persistent data using LocalStorage
 * ✔ Automated CI pipeline
 * ✔ Linting integration
 * ✔ Build verification
@@ -109,6 +113,6 @@ Deployed using Vercel
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Kajol
